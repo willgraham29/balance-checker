@@ -8,8 +8,8 @@ from datetime import datetime, timedelta
 from django.utils import timezone
 
 AUTH_URL = 'https://auth.truelayer-sandbox.com/'
-CLIENT_ID = 'sandbox-budgetingapp-a23a56'
-CLIENT_SECRET = '9d170b4c-5e99-41a8-9996-3f6c2cf916e3'
+CLIENT_ID = 'xxx'
+CLIENT_SECRET = 'xxx'
 REDIRECT_URI = 'https://localhost:8000/balance'
 
 def homepage(request):
